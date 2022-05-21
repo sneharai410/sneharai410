@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sneharai410
-- 👀 I’m interested in Python,Java
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in ruby on rails ,Python,Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me raisneha410@gmail.com
 
